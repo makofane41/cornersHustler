@@ -1,0 +1,11 @@
+
+
+admin details: admin
+      password:Test@123
+
+Database Name : dlmsdb 
+  NB: import the script dlmsdb.sql
+
+only :: subscription left..
+
+don't just allow dlamin play with ur heads you will always keep changing good luck
