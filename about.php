@@ -9,7 +9,7 @@ include('includes/dbconnection.php');
 
 <head>
    
-    <!-- Page Title -->
+    
     <title>Corner's Hustler  || About Us</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
